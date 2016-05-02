@@ -1,0 +1,4 @@
+<resources>
+    <string name="activity_name">JokeDisplay</string>
+    <string name="action_settings">Settings</string>
+</resources>
